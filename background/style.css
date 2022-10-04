@@ -1,0 +1,16 @@
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f29eff;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    color: white;
+    background-color: blue;
+    font-size: 40px;
+}

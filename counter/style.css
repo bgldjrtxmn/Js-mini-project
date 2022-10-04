@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.out{
+    font-size: 50px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+button{
+    width: 75px;
+    height: 40px;
+    font-weight: bold;
+    background-color: aliceblue;
+    font-size: 25px;
+    border-radius: 0px;
+}
